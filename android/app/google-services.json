@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "809659983290",
+    "project_id": "medstockproject",
+    "storage_bucket": "medstockproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809659983290:android:1ffbaaa8ae0b2ff7b9e983",
+        "android_client_info": {
+          "package_name": "com.example.authenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809659983290-gh14qjtqeqhj1bdinadbri40ud4kldut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticationapp",
+            "certificate_hash": "85c4dc3f6626cb271f81c6d3b6a14971cff598ce"
+          }
+        },
+        {
+          "client_id": "809659983290-hn6o22bekrb7snoo82begfcmbl4tbf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KiNrOOYeXpTXoMEwbWwyh8V92HLUauM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809659983290-hn6o22bekrb7snoo82begfcmbl4tbf6n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809659983290-0l0c49b8vjtqhoij8egj8760rmh3h6b1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authenticationapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
