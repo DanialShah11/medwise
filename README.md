@@ -33,7 +33,7 @@ Below is a preview of the Medwise App:
 <p float="center">
   <img src="images/medwise.png"/>
 </p>
-<p float="left">
+<p float="left"> 
   <img src="images/login.jpeg" width="300" height="600"/>
 </p>
 <p float="left">
